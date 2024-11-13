@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\tASK_2\tASK_2\bin\Debug\tASK_2.exe.config
+C:\Users\user\source\repos\tASK_2\tASK_2\bin\Debug\tASK_2.exe
+C:\Users\user\source\repos\tASK_2\tASK_2\bin\Debug\tASK_2.pdb
+C:\Users\user\source\repos\tASK_2\tASK_2\obj\Debug\tASK_2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\tASK_2\tASK_2\obj\Debug\tASK_2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tASK_2\tASK_2\obj\Debug\tASK_2.exe
+C:\Users\user\source\repos\tASK_2\tASK_2\obj\Debug\tASK_2.pdb
